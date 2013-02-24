@@ -1,0 +1,188 @@
+{"frames": {
+
+"robin01.png":
+{
+	"frame": {"x":486,"y":1266,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin02.png":
+{
+	"frame": {"x":486,"y":1266,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin03.png":
+{
+	"frame": {"x":244,"y":1582,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin04.png":
+{
+	"frame": {"x":244,"y":1266,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin05.png":
+{
+	"frame": {"x":728,"y":950,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin06.png":
+{
+	"frame": {"x":486,"y":950,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin07.png":
+{
+	"frame": {"x":244,"y":950,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin08.png":
+{
+	"frame": {"x":2,"y":1582,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin09.png":
+{
+	"frame": {"x":2,"y":1266,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin10.png":
+{
+	"frame": {"x":2,"y":950,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin11.png":
+{
+	"frame": {"x":728,"y":634,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin12.png":
+{
+	"frame": {"x":486,"y":634,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin13.png":
+{
+	"frame": {"x":244,"y":634,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin14.png":
+{
+	"frame": {"x":2,"y":634,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin15.png":
+{
+	"frame": {"x":728,"y":318,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin16.png":
+{
+	"frame": {"x":486,"y":318,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin17.png":
+{
+	"frame": {"x":244,"y":318,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin18.png":
+{
+	"frame": {"x":2,"y":318,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin19.png":
+{
+	"frame": {"x":728,"y":2,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin20.png":
+{
+	"frame": {"x":486,"y":2,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin21.png":
+{
+	"frame": {"x":244,"y":2,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+},
+"robin22.png":
+{
+	"frame": {"x":2,"y":2,"w":240,"h":314},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":314},
+	"sourceSize": {"w":240,"h":314}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "robin_sprite.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:64f416764fae159b05f05595f7a1e437$"
+}
+}
